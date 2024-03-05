@@ -4,9 +4,9 @@ public class Smaple2 {
 
 	public static void main(String[] args) {
 		int a=10;
-		int b=30;
-		
-		System.out.println("Sum = "+a+b);
+		int c=20;
+	
+		System.out.println("Sum = "+a+c);
 
 	}
 
